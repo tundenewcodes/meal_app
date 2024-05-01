@@ -19,30 +19,29 @@
 
 Use this guide for a seamless setup process:
 
-```markdown
-## Getting Started
+
 
 1. **Clone the Repository:**
 
-   ```bash
+
    git clone https://github.com/tundenewcodes/meal_app.git
 
 
 2. **Install Dependencies:**
 
-```bash
+
 	npm install
 
-3. **Run the App
+3. **Run the App**
 
-	```npm start  # or expo start (if using Expo)
+	npm start  # or expo start (if using Expo)
 
 
 **Contributing (Optional):**
 
 If you feel like contributing to this project please follow this steps
 
-```markdown
+
 ## Contributing
 
 We appreciate contributions! Here's how you can get involved:
